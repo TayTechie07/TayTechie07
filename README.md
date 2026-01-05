@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="image.png" width="240" width="100%"" />
+  <img src="image.png" width="100%"" />
 </p>
+<br/>
 
 <h2 align="center">Tayyba Waheed</h2>
 
