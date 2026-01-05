@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image.png" width="160" style="border-radius:50%;" />
+  <img src="image.png" width="240" style="border-radius:50%;" />
 </p>
 
 <h2 align="center">Tayyba Waheed</h2>
