@@ -1,117 +1,152 @@
-<!-- ===================== BANNER ===================== -->
+<!-- ================= HEADER / BANNER ================= -->
 <p align="center">
   <img src="image.png" width="100%" />
 </p>
 <br/>
-<h1 align="center" style="color:#00E5FF;">Tayyba Waheed</h1>
+<h2 align="center">Tayyba Waheed</h2>
 
 <p align="center">
-  <b style="color:#9CA3AF;">
-    Aspiring AI Professional | Machine Learning | Deep Learning | NLP | Transformers | Data Analysis | Python
-  </b>
+Aspiring AI Professional | Machine Learning | Deep Learning | NLP | Transformers | Data Analysis | Python Proficient
 </p>
 
 <p align="center">
   <a href="mailto:tayybawaheed3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0B3C5D?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/tayyba-waheed-9398bb36a">
-    <img src="https://img.shields.io/badge/LinkedIn-00C2FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1C5D99?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/TayTechie07">
-    <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-134074?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
+<hr/>
 
-## 👩‍💻 About Me
+<!-- ================= ABOUT ME ================= -->
+<h2>👩‍💻 About Me</h2>
 
-I am a **Computer Science undergraduate** specializing in **Artificial Intelligence and Machine Learning**, passionate about building **data-driven, business-focused AI solutions**.
+<p>
+I am a Computer Science undergraduate with a strong focus on Artificial Intelligence and Machine Learning, driven by an interest in solving real-world and business problems using data-driven approaches.
+</p>
 
-I have hands-on experience with **end-to-end ML pipelines**, NLP using **Transformer-based architectures**, HR analytics, and customer attrition modeling — with a strong focus on **interpretability, scalability, and clean documentation**.
+<p>
+I have hands-on experience across end-to-end machine learning pipelines, including data preprocessing, feature engineering, model training, evaluation, and interpretation. My work spans NLP with Transformer-based models, HR analytics, customer behavior analysis, and decision-support systems, with an emphasis on interpretability, scalability, and clean documentation.
+</p>
 
----
+<p>
+I am particularly interested in applying AI and ML to business contexts where insights can support better decision-making and measurable impact.
+</p>
 
-## 🚀 Featured Projects
+<hr/>
 
-### 🔹 Transformer-Based Fake News Classification (BERT)
-Fine-tuned BERT using Hugging Face Transformers with attention masks, GPU optimization, and real-time inference.
+<!-- ================= FEATURED PROJECTS ================= -->
+<h2>🚀 Featured Projects</h2>
+
+<p>
+<b>🔹 Transformer-Based Fake News Classification (BERT)</b><br/>
+NLP project using Hugging Face Transformers to classify news as REAL or FAKE, including fine-tuning BERT, attention masks, and real-time inference.
+</p>
 
 <p align="center">
   <a href="https://github.com/TayTechie07/transformer-based-fake-news-detection">
-    <img src="https://img.shields.io/badge/View%20Project-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/View%20Project-1F6AE1?style=for-the-badge"/>
   </a>
 </p>
 
-### 🔹 Employee Performance Prediction (HR Analytics)
-Business-focused ML model predicting KPI achievement (>80%) using Logistic Regression with probability outputs.
+<br/>
+
+<p>
+<b>🔹 Employee Performance Prediction (Machine Learning)</b><br/>
+Business-focused ML model predicting whether employees meet KPI targets (>80%) using Logistic Regression with probability-based outputs.
+</p>
 
 <p align="center">
   <a href="https://github.com/TayTechie07/HR-Analytics-Employee-Performance-Prediction-Model">
-    <img src="https://img.shields.io/badge/View%20Project-00C2FF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/View%20Project-1C5D99?style=for-the-badge"/>
   </a>
 </p>
 
-### 🔹 Credit Card Customer Attrition Prediction
-End-to-end churn prediction pipeline with strong business interpretation (ROC-AUC ≈ 0.98).
+<br/>
+
+<p>
+<b>🔹 Credit Card Customer Attrition Prediction</b><br/>
+End-to-end ML pipeline addressing customer churn with strong business interpretation, achieving ROC-AUC ≈ 0.98.
+</p>
 
 <p align="center">
   <a href="https://github.com/TayTechie07/Credit-Card-Customer-Attrition-Prediction-using-Machine-Learning">
-    <img src="https://img.shields.io/badge/View%20Project-00BFFF?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/View%20Project-134074?style=for-the-badge"/>
   </a>
 </p>
 
----
+<hr/>
 
-## 🧠 Core Skills (BIG & GLOW)
+<!-- ================= CORE SKILLS ================= -->
+<h2>🧠 Core Skills</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-00E5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-00C2FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-00BFFF?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/Python%20Programming-0B3C5D?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Cleaning-1C5D99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-134074?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Dashboards-1F6AE1?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NLP%20%26%20Transformers-00E5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Analysis-00C2FF?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/Personalized%20Chatbots-0A2540?style=for-the-badge"/>
 </p>
 
----
+<hr/>
 
-## 🛠 Tools & Technologies (EXTRA LARGE)
+<!-- ================= TOOLS & TECHNOLOGIES ================= -->
+<h2>🛠 Tools & Technologies</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-00E5FF?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-00C2FF?style=for-the-badge&logo=pandas&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NumPy-00BFFF?style=for-the-badge&logo=numpy&logoColor=black"/>
+<h3>Data · ML · AI</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0B3C5D?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-1C5D99?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-134074?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-1F6AE1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-0A2540?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyTorch-1C5D99?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-134074?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-00E5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PyTorch-00C2FF?style=for-the-badge&logo=pytorch&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Transformers-00BFFF?style=for-the-badge"/>
+<h3>Tools & DevOps</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-0B3C5D?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-1C5D99?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-134074?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-1F6AE1?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-00E5FF?style=for-the-badge&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-00C2FF?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=docker&logoColor=black"/>
+<hr/>
+
+<!-- ================= CERTIFICATIONS ================= -->
+<h2>🎓 Certifications</h2>
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0B3C5D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-1C5D99?style=for-the-badge"/>
 </p>
 
----
-
-## 🎓 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-00E5FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-00C2FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00BFFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python%20Essentials-00E5FF?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-134074?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python%20Essentials-1F6AE1?style=for-the-badge"/>
 </p>
 
----
+<hr/>
 
-<p align="center" style="color:#9CA3AF;">
-  <i>Building intelligent systems that solve real-world and business problems.</i>
-</p>
+<!-- ================= INTERESTS ================= -->
+<h2>🎯 Interests</h2>
+
+<ul>
+  <li>Applied Artificial Intelligence</li>
+  <li>Business & Decision-Support Systems</li>
+  <li>NLP and Transformer Architectures</li>
+  <li>Data-driven Product Development</li>
+</ul>
+
+<p><i>Always learning, building, and refining — with a focus on applying AI responsibly to real-world and business problems.</i></p>
