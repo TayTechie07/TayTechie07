@@ -27,15 +27,7 @@ Aspiring AI Professional | Machine Learning | Deep Learning | NLP | Transformers
 <h2>👩‍💻 About Me</h2>
 
 <p>
-I am a Computer Science undergraduate with a strong focus on Artificial Intelligence and Machine Learning, driven by an interest in solving real-world and business problems using data-driven approaches.
-</p>
-
-<p>
-I have hands-on experience across end-to-end machine learning pipelines, including data preprocessing, feature engineering, model training, evaluation, and interpretation. My work spans NLP with Transformer-based models, HR analytics, customer behavior analysis, and decision-support systems, with an emphasis on interpretability, scalability, and clean documentation.
-</p>
-
-<p>
-I am particularly interested in applying AI and ML to business contexts where insights can support better decision-making and measurable impact.
+I am a passionate Computer Science undergraduate with a growing specialization in Machine Learning, Deep Learning, Natural Language Processing (NLP), and Transformer-based models, with a strong focus on Artificial Intelligence and building intelligent, data-driven solutions. I have hands-on experience working with Huawei Cloud AI domains, where I completed practical exercises in Image Recognition and Intelligent Labeling, gaining exposure to real-world AI applications and cloud-based AI workflows.I am actively strengthening my foundation in Machine Learning, Deep Learning, and Natural Language Processing (NLP), with a keen interest in applying these technologies to solve practical problems. Additionally, I have experience with Docker, enabling me to containerize applications and understand modern deployment workflows used in AI and software development.Alongside AI/ML, my technical skill set includes:Advanced Python Programming: Proficient in writing efficient, scalable, and maintainable code for diverse applications.Database Management: Skilled in MySQL, with experience in database design, querying, and performance optimization.Data Visualization: Hands-on experience using Tableau and MS Excel to convert complex data into actionable insights.Frontend Development: Proficient in HTML, CSS, and JavaScript, building responsive and interactive user interfaces.Systems Programming: Strong foundation in C/C++ for low-level programming and performance-critical applications.I am continuously learning and exploring emerging AI technologies, with the goal of contributing to innovative, impactful solutions in the field of Artificial Intelligence.
 </p>
 
 <hr/>
